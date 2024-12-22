@@ -122,5 +122,6 @@ console.log(third); // 3
 
 # Примеры для отличие матоды
 
+
 ![image](https://github.com/user-attachments/assets/aec8591c-e02b-4263-b363-239d35421767)
 
