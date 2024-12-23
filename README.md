@@ -129,9 +129,14 @@ console.log(third); // 3
 
 В этом документе показаны примеры использования операторов **Spread** и **Rest** в JavaScript.
 
+![image](https://github.com/user-attachments/assets/afa8f88d-5d31-466f-b437-8329b90fbe94)
+
+
 ## Spread оператор / механизм
 
 Spread оператор (`...`) используется для **распаковки** элементов из массива или объекта в новые структуры данных.
+
+![image](https://github.com/user-attachments/assets/8ebc97ef-f608-43a5-93ae-c2bb718e26fc)
 
 ### Пример 1: Копирование массива
 
@@ -142,6 +147,9 @@ const arr2 = [...arr1];  // копирование массива
 console.log(arr2);  // [1, 2, 3]
 
 ```
+
+
+![image](https://github.com/user-attachments/assets/6210fb4d-de2c-4b9e-bcd3-2944d0a8f869)
 
 # Rest оператор / механизм
 ## Rest оператор (...) используется для сбора оставшихся элементов в массив или объект.
